@@ -71,17 +71,17 @@ ${week}, ${calender}
 
 *╭─❲ ON/OFF SYSTEM ❳*          
 *│*
-*│* ▸ Antibadword : ${Toxic ? 'ON ✅' : 'OFF ❌'}
-*│* ▸ Antihidetag : ${isAntihidetag ? 'Aktif' : 'OFF'}
-*│* ▸ Antiasing : ${isKickarea ? 'ON ✅' : 'OFF ❌'}
-*│* ▸ Antilink : ${isAntiLink ? 'ON ✅' : 'OFF ❌'}
-*│* ▸ Antivirtex : ${AntiVirtex ? 'ON ✅' : 'OFF ❌'}
-*│* ▸ Antivo : ${isAntiviewonce ? 'ON ✅' : 'OFF ❌'}
-*│* ▸ Autotyping : ${typing ? 'ON ✅' : 'OFF ❌'}
-*│* ▸ Autovn : ${autovn ? 'ON ✅' : 'OFF ❌'}
-*│* ▸ Autosticker : ${autosticker ? 'ON ✅' : 'OFF ❌'}
-*│* ▸ Autoread : ${autoread ? 'ON ✅' : 'OFF ❌'}
-*│* ▸ Forward : ${forwarding ? 'ON ✅' : 'OFF ❌'}
+*│* ▸ Antibadword : ${Toxic ? 'ON 👿' : 'OFF 😈'}
+*│* ▸ Antihidetag : ${isAntihidetag ? 'Aktif' : 'OFF '}
+*│* ▸ Antiasing : ${isKickarea ? 'ON 👿' : 'OFF 😈'}
+*│* ▸ Antilink : ${isAntiLink ? 'ON 👿' : 'OFF 😈'}
+*│* ▸ Antivirtex : ${AntiVirtex ? 'ON 👿' : 'OFF 😈'}
+*│* ▸ Antivo : ${isAntiviewonce ? 'ON 👿' : 'OFF 😈'}
+*│* ▸ Autotyping : ${typing ? 'ON 👿' : 'OFF 😈'}
+*│* ▸ Autovn : ${autovn ? 'ON 👿' : 'OFF 😈'}
+*│* ▸ Autosticker : ${autosticker ? 'ON 👿' : 'OFF 😈'}
+*│* ▸ Autoread : ${autoread ? 'ON 👿' : 'OFF 😈'}
+*│* ▸ Forward : ${forwarding ? 'ON 👿' : 'OFF 😈'}
 *│*
 *╰────────────⦁*
 
