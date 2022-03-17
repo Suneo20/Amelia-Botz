@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "Syafiq",
-     "nomerlu": "6285863402951",
-     "namabot": "Syafiq",
-     "nomerbot": "6285863402951",
+     "namalu" : "MAR_BOT",
+     "nomerlu": "6281282166030",
+     "namabot": "MAR_BOT",
+     "nomerbot": "6281282166030",
      "gender" : "Female",
-     "copyright" : "Syafiq",
-     "namaDocument": "Syafiq",
+     "copyright" : "MAR_BOT",
+     "namaDocument": "MAR_BOT",
      "joinGcExtream": true,
 
      "publik": true,
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "082230397507",
-     "Gopay" : "082230397507",
-     "Dana" : "082230397507",
-     "Ovo" : "082230397507"
+     "Shopee" : "081282166030",
+     "Gopay" : "081282166030",
+     "Dana" : "081282166030",
+     "Ovo" : "081282166030"
      },
      
      "setPrefix": {
