@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "MAR_BOT",
-     "nomerlu": "6281282166030",
-     "namabot": "MAR_BOT",
-     "nomerbot": "6281282166030",
+     "namalu" : "Melati Rinonceོ",
+     "nomerlu": "6282230397507",
+     "namabot": "Melati Rinonceོ",
+     "nomerbot": "6282230397507",
      "gender" : "Female",
-     "copyright" : "MAR_BOT",
-     "namaDocument": "MAR_BOT",
+     "copyright" : "Melati Rinonceོ",
+     "namaDocument": "Melati Rinonceོ",
      "joinGcExtream": true,
 
      "publik": true,
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "081282166030",
-     "Gopay" : "081282166030",
-     "Dana" : "081282166030",
-     "Ovo" : "081282166030"
+     "Shopee" : "082230397507",
+     "Gopay" : "082230397507",
+     "Dana" : "082230397507",
+     "Ovo" : "082230397507"
      },
      
      "setPrefix": {
