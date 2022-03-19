@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "Melati Rinonceོ",
-     "nomerlu": "6282230397507",
-     "namabot": "Melati Rinonceོ",
-     "nomerbot": "6282230397507",
+     "namalu" : "ZORO_SHOP",
+     "nomerlu": "6281316464890",
+     "namabot": "ZORO_SHOP",
+     "nomerbot": "6281316464890",
      "gender" : "Female",
-     "copyright" : "Melati Rinonceོ",
-     "namaDocument": "Melati Rinonceོ",
+     "copyright" : "ZORO_SHOP",
+     "namaDocument": "ZORO_SHOP",
      "joinGcExtream": true,
 
      "publik": true,
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "082230397507",
-     "Gopay" : "082230397507",
-     "Dana" : "082230397507",
-     "Ovo" : "082230397507"
+     "Shopee" : "6281316464890",
+     "Gopay" : "6281316464890",
+     "Dana" : "6281316464890",
+     "Ovo" : "6281316464890"
      },
      
      "setPrefix": {
