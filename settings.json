@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "ZORO_SHOP",
-     "nomerlu": "6281316464890",
-     "namabot": "ZORO_SHOP",
-     "nomerbot": "6281316464890",
+     "namalu" : "CODE-X",
+     "nomerlu": "6282230397507",
+     "namabot": "CODE-X",
+     "nomerbot": "6282230397507",
      "gender" : "Female",
-     "copyright" : "ZORO_SHOP",
-     "namaDocument": "ZORO_SHOP",
+     "copyright" : "CODE-X",
+     "namaDocument": "CODE-X",
      "joinGcExtream": true,
 
      "publik": true,
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "6281316464890",
-     "Gopay" : "6281316464890",
-     "Dana" : "6281316464890",
-     "Ovo" : "6281316464890"
+     "Shopee" : "6282230397507",
+     "Gopay" : "6282230397507",
+     "Dana" : "6282230397507",
+     "Ovo" : "6282230397507"
      },
      
      "setPrefix": {
