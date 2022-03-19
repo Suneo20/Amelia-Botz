@@ -504,7 +504,7 @@ ${week}, ${calender}
 *╰────────────⦁*
 
 *╭─❲ THANKS TO ❳*
-*│* • Melati Rinonceོ
+*│* • BARON_STORE01 || CODE-X
 *│* • ----------------------
 *│* • Sewa chat 082230397507
 *╰────────────⦁*`
