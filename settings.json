@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "SYAFIQ",
-     "nomerlu": "6285754912397",
-     "namabot": "SYAFIQ",
-     "nomerbot": "6285754912397",
+     "namalu" : "ZORO-X",
+     "nomerlu": "6281316464890",
+     "namabot": "ZORO-X",
+     "nomerbot": "6281316464890",
      "gender" : "Female",
-     "copyright" : "SYAFIQ",
-     "namaDocument": "SYAFIQ",
+     "copyright" : "ZORO-X",
+     "namaDocument": "ZORO-X",
      "joinGcExtream": true,
 
      "publik": true,
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "6285754912397",
-     "Gopay" : "6285754912397",
-     "Dana" : "6285754912397",
-     "Ovo" : "6285754912397"
+     "Shopee" : "6281316464890",
+     "Gopay" : "6281316464890",
+     "Dana" : "6281316464890",
+     "Ovo" : "6281316464890"
      },
      
      "setPrefix": {
