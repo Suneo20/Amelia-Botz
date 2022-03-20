@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "CODE-X",
-     "nomerlu": "6282230397507",
-     "namabot": "CODE-X",
-     "nomerbot": "6282230397507",
+     "namalu" : "SYAFIQ",
+     "nomerlu": "6285754912397",
+     "namabot": "SYAFIQ",
+     "nomerbot": "6285754912397",
      "gender" : "Female",
-     "copyright" : "CODE-X",
-     "namaDocument": "CODE-X",
+     "copyright" : "SYAFIQ",
+     "namaDocument": "SYAFIQ",
      "joinGcExtream": true,
 
      "publik": true,
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "6282230397507",
-     "Gopay" : "6282230397507",
-     "Dana" : "6282230397507",
-     "Ovo" : "6282230397507"
+     "Shopee" : "6285754912397",
+     "Gopay" : "6285754912397",
+     "Dana" : "6285754912397",
+     "Ovo" : "6285754912397"
      },
      
      "setPrefix": {
