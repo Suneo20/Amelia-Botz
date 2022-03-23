@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "MAR_BOT",
-     "nomerlu": "6281282166030",
-     "namabot": "MAR_BOT",
-     "nomerbot": "6281282166030",
+     "namalu" : "Aestrobabe",
+     "nomerlu": "6288809912616",
+     "namabot": "Aestrobabe",
+     "nomerbot": "6288809912616",
      "gender" : "Female",
-     "copyright" : "MAR_BOT",
-     "namaDocument": "MAR_BOT",
+     "copyright" : "Aestrobabe",
+     "namaDocument": "Aestrobabe",
      "joinGcExtream": true,
 
      "publik": true,
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "6281282166030",
-     "Gopay" : "6281282166030",
-     "Dana" : "6281282166030",
-     "Ovo" : "6281282166030"
+     "Shopee" : "6288809912616",
+     "Gopay" : "6288809912616",
+     "Dana" : "6288809912616",
+     "Ovo" : "6288809912616"
      },
      
      "setPrefix": {
