@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "Aestrobabe",
-     "nomerlu": "6288809912616",
-     "namabot": "Aestrobabe",
+     "namalu" : "Keyla-BOT",
+     "nomerlu": "6281363601490",
+     "namabot": "Keyla-BOT",
      "nomerbot": "6288809912616",
      "gender" : "Female",
-     "copyright" : "Aestrobabe",
-     "namaDocument": "Aestrobabe",
+     "copyright" : "Keyla-BOT",
+     "namaDocument": "Keyla-BOT",
      "joinGcExtream": true,
 
      "publik": true,
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "6288809912616",
-     "Gopay" : "6288809912616",
-     "Dana" : "6288809912616",
-     "Ovo" : "6288809912616"
+     "Shopee" : "081363601490",
+     "Gopay" : "081363601490",
+     "Dana" : "081363601490",
+     "Ovo" : "081363601490"
      },
      
      "setPrefix": {
