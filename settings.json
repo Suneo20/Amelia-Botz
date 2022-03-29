@@ -1,9 +1,9 @@
 {    
      "Version": "3.5.0",
      "namalu" : "Keyla-BOT",
-     "nomerlu": "6281363601490",
+     "nomerlu": "6288289729150",
      "namabot": "Keyla-BOT",
-     "nomerbot": "6288809912616",
+     "nomerbot": "6288289729150",
      "gender" : "Female",
      "copyright" : "Keyla-BOT",
      "namaDocument": "Keyla-BOT",
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "081363601490",
-     "Gopay" : "081363601490",
-     "Dana" : "081363601490",
-     "Ovo" : "081363601490"
+     "Shopee" : "088289729150",
+     "Gopay" : "088289729150",
+     "Dana" : "088289729150",
+     "Ovo" : "088289729150"
      },
      
      "setPrefix": {
