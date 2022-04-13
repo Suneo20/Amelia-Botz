@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "Keyla-BOT",
-     "nomerlu": "6288289729150",
-     "namabot": "Keyla-BOT",
-     "nomerbot": "6288289729150",
+     "namalu" : "Febri botz",
+     "nomerlu": "6285695721653",
+     "namabot": "Febri botz",
+     "nomerbot": "6285695721653",
      "gender" : "Female",
-     "copyright" : "Keyla-BOT",
-     "namaDocument": "Keyla-BOT",
+     "copyright" : "Febri botz",
+     "namaDocument": "Febri botz",
      "joinGcExtream": true,
 
      "publik": true,
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "088289729150",
-     "Gopay" : "088289729150",
-     "Dana" : "088289729150",
-     "Ovo" : "088289729150"
+     "Shopee" : "6285695721653",
+     "Gopay" : "6285695721653",
+     "Dana" : "6285695721653",
+     "Ovo" : "6285695721653"
      },
      
      "setPrefix": {
